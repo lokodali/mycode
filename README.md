@@ -9,6 +9,5 @@ Install Python and Python3 using apt
 ## Built With
 * Python (https://www.python.org/)
 
-##
-Author
+## Author
 * **Lohita** 
